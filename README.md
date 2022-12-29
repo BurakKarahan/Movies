@@ -10,8 +10,10 @@ The Movies application has been developed so that you can follow the current mov
 </p>
 
 ## Technologies
+- [Kotlin](https://kotlinlang.org/docs/getting-started.html)
 - [MVVM Architecture](https://developer.android.com/jetpack/guide)
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit)
 - [Navigation Component](https://developer.android.com/guide/navigation)
 - [View Binding & Data Binding](https://developer.android.com/topic/libraries/view-binding) 
 - [Paging3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
+- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
